@@ -1,0 +1,18 @@
+[
+  {
+    "file": "kit_matsugasaki_campus_v5.blend",
+    "packed_images": 4,
+    "packed_fonts": 1,
+    "libraries": 0,
+    "errors": [],
+    "passed": true
+  },
+  {
+    "file": "kit_building_studies_v5.blend",
+    "packed_images": 1,
+    "packed_fonts": 1,
+    "libraries": 0,
+    "errors": [],
+    "passed": true
+  }
+]

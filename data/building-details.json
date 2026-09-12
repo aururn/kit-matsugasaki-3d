@@ -1,0 +1,1236 @@
+{
+  "version": 4,
+  "scope": "Matsugasaki east and west",
+  "profiles": {
+    "1 Main teaching building": {
+      "kind": "red laboratory",
+      "spacing": 5.6,
+      "lights": 4,
+      "vent": "round",
+      "recess": 0.2,
+      "source": "building1.jpg",
+      "features": "brick piloti, corner-glazed stair tower, four-light windows, circular wall vents",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "2S Teaching building south": {
+      "kind": "brown teaching block",
+      "spacing": 4.8,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.23,
+      "source": "kitmap-building-11.png",
+      "features": "five-storey observed facade including entrance level, broad column-supported canopy, upper window ventilation hoods",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "2N Teaching building north": {
+      "kind": "teaching north wing",
+      "spacing": 4.8,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.23,
+      "source": null,
+      "features": "window detailing inferred from adjoining south wing",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "University Library": {
+      "kind": "library",
+      "spacing": 5.8,
+      "lights": 5,
+      "vent": "round",
+      "recess": 0.18,
+      "source": "kitmap-building-7.png",
+      "features": "five-light windows, round ventilation inserts, shallow bronze entrance canopy, glass vestibule",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "University Hall": {
+      "kind": "student hall",
+      "spacing": 6.2,
+      "lights": 3,
+      "vent": null,
+      "recess": 0.3,
+      "source": "kitmap-building-10.png",
+      "features": "square tile field, contrasting horizontal bands, open double-height colonnade and broad red tiled stair",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "E1 East Building 1": {
+      "kind": "east laboratory",
+      "spacing": 5.6,
+      "lights": 5,
+      "vent": "round",
+      "recess": 0.22,
+      "source": "kitmap-building-13.jpg",
+      "features": "five-storey ribbon glazing, small projecting balconies, deep roof eaves, tiled entrance canopy",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "E2 East Building 2": {
+      "kind": "east laboratory",
+      "spacing": 5.6,
+      "lights": 5,
+      "vent": "round",
+      "recess": 0.22,
+      "source": null,
+      "features": "details inferred from adjoining east 1 building",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "15 Teaching building": {
+      "kind": "newer laboratory",
+      "spacing": 3.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.28,
+      "source": "kitmap-building-15.jpg",
+      "features": "narrow upper windows, broad white floor ledges, recessed shadow lines and upper ventilation grilles",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "14 Teaching building": {
+      "kind": "newer laboratory",
+      "spacing": 3.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.28,
+      "source": null,
+      "features": "details inferred from adjoining 15 building",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Museum of Arts and Crafts": {
+      "kind": "museum",
+      "spacing": 5,
+      "lights": 3,
+      "vent": null,
+      "recess": 0.32,
+      "source": "kitmap-building-6.png",
+      "features": "deep central entrance void, projected upper picture window, sparse slit windows, vertical concrete fins",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "Plaza KIT": {
+      "kind": "perforated metal pavilion",
+      "spacing": 2,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.16,
+      "source": "kitmap-building-8.png",
+      "features": "folded metal screen, glass doorway, projecting thin roof and concrete entrance wall",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "KIT HOUSE": {
+      "kind": "brick-screen dining pavilion",
+      "spacing": 2,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.16,
+      "source": "1-kit_house_D02-2000x1334.jpg",
+      "features": "brick screen, rooflight frames and flashings, terrace railings and stair fittings",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "60th Anniversary Hall": {
+      "kind": "white anniversary pavilion",
+      "spacing": 2,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.18,
+      "source": "hall60-100.jpg",
+      "features": "curved upper envelope, sheet-metal panel seams, lobby transoms and eaves gutter",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "Center Hall and learning building": {
+      "kind": "brick auditorium",
+      "spacing": 2,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.22,
+      "source": "kitmap-building-4.png",
+      "features": "stepped lobby, dark horizontal glazing, recessed entry door, separate lower learning wing",
+      "evidence_level": "photo-informed components; dimensions estimated"
+    },
+    "Sports equipment store A": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Sports equipment store B": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Sports equipment store C": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "North utility 1": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "North utility 2": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "North utility 3": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "North utility 4": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "16 New Materials Innovation Lab": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "North lecture hall": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Pool changing rooms": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Cultural club facilities": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Library north annex": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Waste processing": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Practice workshop": {
+      "kind": "workshop",
+      "spacing": 4.5,
+      "lights": 4,
+      "vent": "louver",
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Isotope laboratory annex": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Library east annex": {
+      "kind": "brown teaching block",
+      "spacing": 4.8,
+      "lights": 4,
+      "vent": "round",
+      "recess": 0.21,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Archery range": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Isotope Center": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "E4 East Building 4": {
+      "kind": "brown teaching block",
+      "spacing": 4.8,
+      "lights": 4,
+      "vent": "round",
+      "recess": 0.21,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "17N North wing": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "E3 East Building 3": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Gymnasium": {
+      "kind": "sports hall",
+      "spacing": 5.5,
+      "lights": 4,
+      "vent": "louver",
+      "recess": 0.25,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Gym east annex": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "East gate guardhouse": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Health and Accessibility Center": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Health center west annex": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "12 Teaching building": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "17S South wing": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "12 Utility annex": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Sports club store": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Environmental laboratory annex": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Environmental Science Center": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Martial arts and training hall": {
+      "kind": "sports hall",
+      "spacing": 5.5,
+      "lights": 4,
+      "vent": "louver",
+      "recess": 0.25,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "East lecture room": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Environmental store": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "West lecture rooms": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "60th Hall annex": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "18 Teaching building": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Waraku-an": {
+      "kind": "timber heritage building",
+      "spacing": 3.8,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "West annex workshop": {
+      "kind": "workshop",
+      "spacing": 4.5,
+      "lights": 4,
+      "vent": "louver",
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "19 Teaching building": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "West auxiliary building": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Information Infrastructure Center": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "9 Teaching building": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "West experimental building": {
+      "kind": "workshop",
+      "spacing": 4.5,
+      "lights": 4,
+      "vent": "louver",
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "South service building": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "South gate service": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "South gate store": {
+      "kind": "service outbuilding",
+      "spacing": 4.5,
+      "lights": 2,
+      "vent": "louver",
+      "recess": 0.17,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "10 Teaching building": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "11 Teaching building": {
+      "kind": "research laboratory",
+      "spacing": 4.2,
+      "lights": 3,
+      "vent": "hood",
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "13 Research building": {
+      "kind": "glazed research block",
+      "spacing": 3.0,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "6 Teaching building": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "7 Teaching building": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "8 Teaching building": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "8 Teaching building annex": {
+      "kind": "painted teaching block",
+      "spacing": 4.4,
+      "lights": 3,
+      "vent": "round",
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "4 Teaching building west extension": {
+      "kind": "historic return extension",
+      "spacing": 3.8,
+      "lights": 3,
+      "vent": null,
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "5 Teaching building west extension": {
+      "kind": "historic return extension",
+      "spacing": 3.8,
+      "lights": 3,
+      "vent": null,
+      "recess": 0.22,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "KYOTO Design Lab": {
+      "kind": "design laboratory",
+      "spacing": 2.5,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.18,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "Kosen Kaikan": {
+      "kind": "pavilion",
+      "spacing": 3.2,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "KIT Club": {
+      "kind": "timber heritage building",
+      "spacing": 3.8,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.2,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    },
+    "International Exchange Pavilion": {
+      "kind": "light pavilion",
+      "spacing": 2.5,
+      "lights": 2,
+      "vent": null,
+      "recess": 0.16,
+      "source": null,
+      "features": "constructed window reveals, separate sashes, door joinery, drainage and roof services; locations inferred",
+      "evidence_level": "architectural detailing inferred; not photographically verified"
+    }
+  },
+  "generated_components": {
+    "Sports equipment store A": {
+      "detailed window assemblies": 6,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "Sports equipment store B": {
+      "detailed window assemblies": 10,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "Sports equipment store C": {
+      "detailed window assemblies": 15,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "North utility 1": {
+      "detailed window assemblies": 3,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "North utility 2": {
+      "detailed window assemblies": 10,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "North utility 3": {
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 4,
+      "detailed window assemblies": 3
+    },
+    "North utility 4": {
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 2,
+      "detailed window assemblies": 3
+    },
+    "16 New Materials Innovation Lab": {
+      "detailed window assemblies": 72,
+      "drainage and facade joints": 10,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "North lecture hall": {
+      "detailed window assemblies": 28,
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Pool changing rooms": {
+      "detailed window assemblies": 12,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "Cultural club facilities": {
+      "detailed window assemblies": 36,
+      "drainage and facade joints": 8,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Library north annex": {
+      "detailed window assemblies": 3,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 2
+    },
+    "Waste processing": {
+      "detailed window assemblies": 9,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "Practice workshop": {
+      "detailed window assemblies": 25,
+      "detailed entrance assemblies": 2,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "Isotope laboratory annex": {
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4,
+      "detailed window assemblies": 3
+    },
+    "Library east annex": {
+      "detailed window assemblies": 28,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "Archery range": {
+      "detailed window assemblies": 7,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "University Library": {
+      "detailed window assemblies": 89,
+      "detailed entrance assemblies": 1,
+      "individual entrance portico": 1,
+      "drainage and facade joints": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Isotope Center": {
+      "detailed window assemblies": 17,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "E4 East Building 4": {
+      "detailed window assemblies": 59,
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "17N North wing": {
+      "detailed window assemblies": 63,
+      "drainage and facade joints": 5,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "E3 East Building 3": {
+      "detailed window assemblies": 36,
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "1 Main teaching building": {
+      "detailed window assemblies": 134,
+      "drainage and facade joints": 16,
+      "detailed entrance assemblies": 1,
+      "open arcade bay": 2,
+      "corner-glazed stair tower with landings": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Gymnasium": {
+      "detailed window assemblies": 20,
+      "detailed entrance assemblies": 2,
+      "drainage and facade joints": 4
+    },
+    "Gym east annex": {
+      "detailed window assemblies": 7,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "East gate guardhouse": {
+      "detailed window assemblies": 6,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "Health and Accessibility Center": {
+      "detailed window assemblies": 31,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Health center west annex": {
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 4,
+      "detailed window assemblies": 7,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "12 Teaching building": {
+      "detailed window assemblies": 131,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "17S South wing": {
+      "detailed window assemblies": 75,
+      "drainage and facade joints": 8,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "12 Utility annex": {
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4,
+      "detailed window assemblies": 3
+    },
+    "Sports club store": {
+      "detailed window assemblies": 11,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 5
+    },
+    "Environmental laboratory annex": {
+      "detailed window assemblies": 8,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "Environmental Science Center": {
+      "detailed window assemblies": 20,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Martial arts and training hall": {
+      "detailed window assemblies": 34,
+      "detailed entrance assemblies": 2,
+      "drainage and facade joints": 4
+    },
+    "East lecture room": {
+      "detailed window assemblies": 24,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "Environmental store": {
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4,
+      "detailed window assemblies": 3
+    },
+    "60th Anniversary Hall": {
+      "cladding joints and lobby transoms": 1
+    },
+    "West lecture rooms": {
+      "detailed window assemblies": 28,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "Plaza KIT": {
+      "folded screen bays": 431,
+      "plaza: folded perforated screen, concrete portico and thin roof": 1
+    },
+    "Museum of Arts and Crafts": {
+      "roof service units": 3,
+      "roof flashing joints": 1,
+      "museum: deep entrance, picture-window box, slit recesses, side fins": 1
+    },
+    "Center Hall and learning building": {
+      "entry stair and door hardware": 1
+    },
+    "18 Teaching building": {
+      "detailed window assemblies": 53,
+      "drainage and facade joints": 6,
+      "detailed entrance assemblies": 1,
+      "roof service units": 1,
+      "roof flashing joints": 1
+    },
+    "Waraku-an": {
+      "detailed window assemblies": 11,
+      "timber wall and eaves joinery": 4,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1
+    },
+    "West annex workshop": {
+      "detailed window assemblies": 9,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "19 Teaching building": {
+      "detailed window assemblies": 36,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "West auxiliary building": {
+      "detailed window assemblies": 21,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "KIT HOUSE": {
+      "rooflight flashings and stair balusters": 1
+    },
+    "Information Infrastructure Center": {
+      "detailed window assemblies": 55,
+      "detailed entrance assemblies": 2,
+      "drainage and facade joints": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "9 Teaching building": {
+      "detailed window assemblies": 36,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "West experimental building": {
+      "detailed window assemblies": 55,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1
+    },
+    "University Hall": {
+      "detailed window assemblies": 67,
+      "drainage and facade joints": 7,
+      "detailed entrance assemblies": 1,
+      "open arcade bay": 3,
+      "roof service units": 3,
+      "roof flashing joints": 1,
+      "broad tiled entrance stair and contrasting tile bands": 1
+    },
+    "South service building": {
+      "detailed window assemblies": 7,
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 4
+    },
+    "South gate service": {
+      "detailed entrance assemblies": 1,
+      "service roller shutter": 1,
+      "drainage and facade joints": 2,
+      "detailed window assemblies": 1
+    },
+    "South gate store": {
+      "detailed window assemblies": 1,
+      "drainage and facade joints": 2,
+      "detailed entrance assemblies": 1
+    },
+    "15 Teaching building": {
+      "detailed window assemblies": 92,
+      "drainage and facade joints": 6,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "14 Teaching building": {
+      "detailed window assemblies": 86,
+      "drainage and facade joints": 5,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "2N Teaching building north": {
+      "detailed window assemblies": 106,
+      "drainage and facade joints": 8,
+      "detailed entrance assemblies": 2,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "2S Teaching building south": {
+      "detailed window assemblies": 174,
+      "drainage and facade joints": 8,
+      "detailed entrance assemblies": 2,
+      "individual entrance portico": 1,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "10 Teaching building": {
+      "detailed window assemblies": 211,
+      "drainage and facade joints": 11,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "11 Teaching building": {
+      "detailed window assemblies": 63,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 2,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "13 Research building": {
+      "detailed window assemblies": 227,
+      "drainage and facade joints": 8,
+      "detailed entrance assemblies": 3,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "E1 East Building 1": {
+      "detailed window assemblies": 144,
+      "drainage and facade joints": 6,
+      "detailed entrance assemblies": 2,
+      "individual entrance portico": 1,
+      "balconies": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "E2 East Building 2": {
+      "detailed window assemblies": 89,
+      "drainage and facade joints": 6,
+      "detailed entrance assemblies": 2,
+      "individual entrance portico": 1,
+      "balconies": 4,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "6 Teaching building": {
+      "detailed window assemblies": 83,
+      "drainage and facade joints": 8,
+      "detailed entrance assemblies": 2,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "7 Teaching building": {
+      "detailed window assemblies": 101,
+      "drainage and facade joints": 12,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "8 Teaching building": {
+      "detailed window assemblies": 62,
+      "drainage and facade joints": 6,
+      "detailed entrance assemblies": 2,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "8 Teaching building annex": {
+      "detailed window assemblies": 11,
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 2,
+      "roof service units": 0,
+      "roof flashing joints": 1
+    },
+    "4 Teaching building west extension": {
+      "detailed window assemblies": 74,
+      "drainage and facade joints": 11,
+      "detailed entrance assemblies": 2,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "5 Teaching building west extension": {
+      "detailed window assemblies": 78,
+      "drainage and facade joints": 7,
+      "detailed entrance assemblies": 1,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "KYOTO Design Lab": {
+      "detailed window assemblies": 172,
+      "drainage and facade joints": 6,
+      "detailed entrance assemblies": 2,
+      "roof service units": 3,
+      "roof flashing joints": 1
+    },
+    "Kosen Kaikan": {
+      "detailed window assemblies": 17,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    },
+    "KIT Club": {
+      "detailed window assemblies": 19,
+      "timber wall and eaves joinery": 4,
+      "drainage and facade joints": 4,
+      "detailed entrance assemblies": 1
+    },
+    "International Exchange Pavilion": {
+      "detailed window assemblies": 22,
+      "detailed entrance assemblies": 1,
+      "drainage and facade joints": 4,
+      "roof service units": 2,
+      "roof flashing joints": 1
+    }
+  },
+  "limitations": "Observed components do not establish exact dimensions, quantities or every facade. Roof-service layout and unidentified buildings remain inferred."
+}

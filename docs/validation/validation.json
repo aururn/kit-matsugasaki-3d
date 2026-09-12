@@ -1,0 +1,339 @@
+{
+  "campus_parts": 74,
+  "gate_assemblies": 8,
+  "mapped_entrances": 65,
+  "buildings_with_mapped_entrances": 48,
+  "unique_meshes": 6685,
+  "unique_vertices": 8612468,
+  "missing_images": [],
+  "door_opening_checks": [
+    {
+      "id": "Sports equipment store A entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Sports equipment store B entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Sports equipment store C entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "16 New Materials Innovation Lab entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "North lecture hall entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Pool changing rooms entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Cultural club facilities entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Practice workshop entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Practice workshop entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Library east annex entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "University Library entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Isotope Center entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "E4 East Building 4 entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "17N North wing entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "E3 East Building 3 entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "1 Main teaching building entry 1",
+      "first_surface": "Campus grey metal roof",
+      "passed": true
+    },
+    {
+      "id": "1 Main teaching building entry 2",
+      "first_surface": "Campus grey metal roof",
+      "passed": true
+    },
+    {
+      "id": "Gymnasium entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Gymnasium entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "East gate guardhouse entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Health and Accessibility Center entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "12 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "17S South wing entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Environmental laboratory annex entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Environmental Science Center entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Martial arts and training hall entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Martial arts and training hall entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "East lecture room entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "West lecture rooms entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "18 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "19 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Information Infrastructure Center entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Information Infrastructure Center entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "9 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "West experimental building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "University Hall entry 1",
+      "first_surface": "open passage",
+      "passed": true
+    },
+    {
+      "id": "University Hall entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "15 Teaching building entry 1",
+      "first_surface": "Campus grey metal roof",
+      "passed": true
+    },
+    {
+      "id": "14 Teaching building entry 1",
+      "first_surface": "Campus grey metal roof",
+      "passed": true
+    },
+    {
+      "id": "2N Teaching building north entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "2N Teaching building north entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "2S Teaching building south entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "2S Teaching building south entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "10 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "11 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "11 Teaching building entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "13 Research building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "13 Research building entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "13 Research building entry 3",
+      "first_surface": "Campus grey metal roof",
+      "passed": true
+    },
+    {
+      "id": "E1 East Building 1 entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "E1 East Building 1 entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "E2 East Building 2 entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "E2 East Building 2 entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "6 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "6 Teaching building entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "7 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "8 Teaching building entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "8 Teaching building entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "4 Teaching building west extension entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "4 Teaching building west extension entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "5 Teaching building west extension entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "KYOTO Design Lab entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "KYOTO Design Lab entry 2",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "Kosen Kaikan entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    },
+    {
+      "id": "KIT Club entry 1",
+      "first_surface": "Campus glazing",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "passed": true,
+  "scope": "File integrity, map-driven placement and physical facade openings. Not independent field measurement or proof of architectural fidelity."
+}

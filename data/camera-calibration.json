@@ -1,0 +1,37 @@
+{
+  "source": "exterior-2007.jpg",
+  "pixel_size": [
+    1504,
+    1000
+  ],
+  "assumed_height_m": 14.2,
+  "left_wing_length_m": 25.696579029950268,
+  "camera_local": [
+    -13.154853265170026,
+    -20.394444736078036,
+    7.53002767049365
+  ],
+  "rotation_world_to_cv": [
+    [
+      0.7233867381934606,
+      -0.6896034123603231,
+      0.03404057383217464
+    ],
+    [
+      0.010612305723988977,
+      -0.03819154472371978,
+      -0.9992140836071298
+    ],
+    [
+      0.6903615038319024,
+      0.7231794656740569,
+      -0.02030897472398756
+    ]
+  ],
+  "focal_pixels": 1118.208754643,
+  "intrinsics_principal_point": [
+    752,
+    500
+  ],
+  "method": "Manually selected orthogonal vanishing lines and facade homography; approximate calibration, no survey"
+}

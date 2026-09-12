@@ -1,0 +1,9 @@
+/build/
+/reports/
+__pycache__/
+*.py[cod]
+*.blend
+*.blend[0-9]*
+*.log
+.DS_Store
+Thumbs.db

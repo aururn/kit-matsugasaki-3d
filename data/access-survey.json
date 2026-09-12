@@ -1,0 +1,1491 @@
+{
+  "version": 5,
+  "origin_lonlat": [
+    135.7823,
+    35.0495
+  ],
+  "gates": [
+    {
+      "id": "central-east",
+      "name": "中央東門",
+      "xy": [
+        17.14,
+        27.27
+      ],
+      "theta": -90,
+      "kind": "brick",
+      "width": 8.0,
+      "source": "OSM node 12491770519; Iwasaki 2025 photo; masterplan 2025 p42"
+    },
+    {
+      "id": "central-west",
+      "name": "中央西門",
+      "xy": [
+        -2.1,
+        26.97
+      ],
+      "theta": 90,
+      "kind": "brick",
+      "width": 9.0,
+      "source": "OSM node 12506432003; official 2025 map; Commons NI3 photo"
+    },
+    {
+      "id": "historic-east",
+      "name": "東門・旧正門",
+      "xy": [
+        1.28,
+        -119.36
+      ],
+      "theta": 45,
+      "kind": "historic",
+      "width": 5.4,
+      "source": "OSM node 1345835370; Cultural Heritage Online 153575; masterplan 2025 p42"
+    },
+    {
+      "id": "west",
+      "name": "西門",
+      "xy": [
+        -281.8,
+        -124.0
+      ],
+      "theta": -45,
+      "kind": "bars",
+      "width": 7.6,
+      "source": "official masterplan 2025 p42 photo and boundary map; position traced"
+    },
+    {
+      "id": "northwest",
+      "name": "西北門",
+      "xy": [
+        -279.5,
+        127.4
+      ],
+      "theta": -135,
+      "kind": "northwest",
+      "width": 4.5,
+      "source": "official masterplan 2025 p42 photo and boundary map; position traced"
+    },
+    {
+      "id": "mabashi",
+      "name": "馬橋門",
+      "xy": [
+        219.27,
+        -15.95
+      ],
+      "theta": 45,
+      "kind": "bars",
+      "width": 6.4,
+      "source": "OSM node 12491770520; official masterplan 2025 p42 photo"
+    },
+    {
+      "id": "central-south",
+      "name": "中央南門",
+      "xy": [
+        15.0,
+        -25.8
+      ],
+      "theta": -90,
+      "kind": "small",
+      "width": 2.6,
+      "source": "official masterplan 2025 p42 photo and map; position traced"
+    },
+    {
+      "id": "central-west-cycle",
+      "name": "中央西自転車用門",
+      "xy": [
+        -1.0,
+        42.0
+      ],
+      "theta": 90,
+      "kind": "small",
+      "width": 2.8,
+      "source": "official masterplan 2025 p42; position traced"
+    }
+  ],
+  "tower": {
+    "xy": [
+      47.0,
+      27.3
+    ],
+    "previous_xy": [
+      24,
+      23
+    ],
+    "height_estimated_m": 17.0,
+    "position_uncertainty_m": 5,
+    "evidence": "official plans place it in the first east forecourt island; west-facing paired panels from official and Iwasaki photographs"
+  },
+  "entrances": [
+    {
+      "building": "Sports equipment store A",
+      "side": "W",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 4.775929845810285,
+      "xy": [
+        240.71442108468784,
+        179.27468451269723
+      ],
+      "normal": [
+        -0.9988989875124763,
+        -0.04691282070553775
+      ],
+      "id": "Sports equipment store A entry 1",
+      "edge": 3
+    },
+    {
+      "building": "Sports equipment store B",
+      "side": "W",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 9.618322223769507,
+      "xy": [
+        241.09180375577967,
+        162.03127464273047
+      ],
+      "normal": [
+        -0.9994501258701473,
+        -0.03315789345158975
+      ],
+      "id": "Sports equipment store B entry 1",
+      "edge": 3
+    },
+    {
+      "building": "Sports equipment store C",
+      "side": "W",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 17.453182588625076,
+      "xy": [
+        242.2000050621962,
+        132.37976172047416
+      ],
+      "normal": [
+        -0.9995785118612768,
+        -0.029030994216447354
+      ],
+      "id": "Sports equipment store C entry 1",
+      "edge": 3
+    },
+    {
+      "building": "16 New Materials Innovation Lab",
+      "side": "N",
+      "fraction": 0.4,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 25.408889491111296,
+      "xy": [
+        -173.30577697002218,
+        112.50360338412321
+      ],
+      "normal": [
+        -0.04848856601161811,
+        0.9988237376865535
+      ],
+      "id": "16 New Materials Innovation Lab entry 1",
+      "edge": 15
+    },
+    {
+      "building": "North lecture hall",
+      "side": "S",
+      "fraction": 0.52,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 9.248762805494698,
+      "xy": [
+        -121.8965730059461,
+        88.38720038739714
+      ],
+      "normal": [
+        0.0336062665369969,
+        -0.9994351498969026
+      ],
+      "id": "North lecture hall entry 1",
+      "edge": 0
+    },
+    {
+      "building": "Pool changing rooms",
+      "side": "E",
+      "fraction": 0.6,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 15.035414151408752,
+      "xy": [
+        248.3264059298876,
+        94.42269641277002
+      ],
+      "normal": [
+        0.999591515168048,
+        0.02857976214117358
+      ],
+      "id": "Pool changing rooms entry 1",
+      "edge": 1
+    },
+    {
+      "building": "Cultural club facilities",
+      "side": "W",
+      "fraction": 0.63,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 4.325650740668463,
+      "xy": [
+        185.22596738207505,
+        92.04865434186505
+      ],
+      "normal": [
+        -0.9989409494727506,
+        -0.046010645143050144
+      ],
+      "id": "Cultural club facilities entry 1",
+      "edge": 1
+    },
+    {
+      "building": "Practice workshop",
+      "side": "S",
+      "fraction": 0.39,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.11473650293459,
+      "xy": [
+        -186.15058422871405,
+        65.42242970240251
+      ],
+      "normal": [
+        0.053861364872203596,
+        -0.998548423149375
+      ],
+      "id": "Practice workshop entry 1",
+      "edge": 0
+    },
+    {
+      "building": "Practice workshop",
+      "side": "S",
+      "fraction": 0.86,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 36.88396772497747,
+      "xy": [
+        -165.41150114191836,
+        66.54108884336813
+      ],
+      "normal": [
+        0.053861364872203596,
+        -0.998548423149375
+      ],
+      "id": "Practice workshop entry 2",
+      "edge": 0
+    },
+    {
+      "building": "Library east annex",
+      "side": "E",
+      "fraction": 0.62,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.974766239428572,
+      "xy": [
+        171.76986623617026,
+        72.06262040940047
+      ],
+      "normal": [
+        0.9990841800176842,
+        0.042787863213669355
+      ],
+      "id": "Library east annex entry 1",
+      "edge": 1
+    },
+    {
+      "building": "University Library",
+      "side": "S",
+      "fraction": 0.28,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 19.792937463487398,
+      "xy": [
+        104.06635874690231,
+        53.58864314742924
+      ],
+      "normal": [
+        0.03932893481229968,
+        -0.9992263181514636
+      ],
+      "id": "University Library entry 1",
+      "edge": 0
+    },
+    {
+      "building": "Isotope Center",
+      "side": "S",
+      "fraction": 0.6,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 1.45,
+      "xy": [
+        -111.55868949350274,
+        64.25648682295537
+      ],
+      "normal": [
+        -0.2592449496295327,
+        -0.9658116048648313
+      ],
+      "id": "Isotope Center entry 1",
+      "edge": 7
+    },
+    {
+      "building": "E4 East Building 4",
+      "side": "S",
+      "fraction": 0.57,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.4984958140602,
+      "xy": [
+        58.581077781900895,
+        51.80516690850296
+      ],
+      "normal": [
+        0.0375931791188038,
+        -0.9992931266068739
+      ],
+      "id": "E4 East Building 4 entry 1",
+      "edge": 0
+    },
+    {
+      "building": "17N North wing",
+      "side": "E",
+      "fraction": 0.88,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 13.395100882119264,
+      "xy": [
+        -255.14217831436122,
+        73.54594074837954
+      ],
+      "normal": [
+        0.9995156338408044,
+        0.031120695811870915
+      ],
+      "id": "17N North wing entry 1",
+      "edge": 2
+    },
+    {
+      "building": "E3 East Building 3",
+      "side": "S",
+      "fraction": 0.38,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 8.852541264216969,
+      "xy": [
+        24.27849292537974,
+        50.295672851649826
+      ],
+      "normal": [
+        0.02529633527201859,
+        -0.9996799965097859
+      ],
+      "id": "E3 East Building 3 entry 1",
+      "edge": 0
+    },
+    {
+      "building": "1 Main teaching building",
+      "side": "S",
+      "fraction": 0.51,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 11.946366949049578,
+      "xy": [
+        -46.760262929752926,
+        29.7362160142658
+      ],
+      "normal": [
+        0.03656274884451869,
+        -0.9993313591581786
+      ],
+      "id": "1 Main teaching building entry 1",
+      "edge": 28
+    },
+    {
+      "building": "1 Main teaching building",
+      "side": "E",
+      "fraction": 0.72,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 33.63924664898211,
+      "xy": [
+        -19.855879954318116,
+        88.63065288060619
+      ],
+      "normal": [
+        0.9996490477861062,
+        0.026491154378983785
+      ],
+      "id": "1 Main teaching building entry 2",
+      "edge": 10
+    },
+    {
+      "building": "Gymnasium",
+      "side": "W",
+      "fraction": 0.45,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.15237736783684,
+      "xy": [
+        188.35141411682923,
+        49.49706320605681
+      ],
+      "normal": [
+        -0.9990609076430912,
+        -0.043327852697345536
+      ],
+      "id": "Gymnasium entry 1",
+      "edge": 3
+    },
+    {
+      "building": "Gymnasium",
+      "side": "S",
+      "fraction": 0.3,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 9.85028482316907,
+      "xy": [
+        198.82302528872137,
+        35.38390381839567
+      ],
+      "normal": [
+        0.043595066189237065,
+        -0.9990492831707332
+      ],
+      "id": "Gymnasium entry 2",
+      "edge": 0
+    },
+    {
+      "building": "East gate guardhouse",
+      "side": "W",
+      "fraction": 0.55,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 4.9788780904087195,
+      "xy": [
+        15.411181973190116,
+        43.36841980845293
+      ],
+      "normal": [
+        -0.9997947530725273,
+        -0.020259608304310242
+      ],
+      "id": "East gate guardhouse entry 1",
+      "edge": 3
+    },
+    {
+      "building": "Health and Accessibility Center",
+      "side": "W",
+      "fraction": 0.55,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 8.764989964352152,
+      "xy": [
+        151.23993268370998,
+        41.53084582823291
+      ],
+      "normal": [
+        -0.9998334518874159,
+        -0.018250164023769062
+      ],
+      "id": "Health and Accessibility Center entry 1",
+      "edge": 3
+    },
+    {
+      "building": "12 Teaching building",
+      "side": "N",
+      "fraction": 0.65,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 27.42612399192176,
+      "xy": [
+        -190.60417209313775,
+        48.942741931549634
+      ],
+      "normal": [
+        -0.048065051718502436,
+        0.9988442074734667
+      ],
+      "id": "12 Teaching building entry 1",
+      "edge": 2
+    },
+    {
+      "building": "17S South wing",
+      "side": "E",
+      "fraction": 0.55,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 6.445933000101719,
+      "xy": [
+        -253.01018888690257,
+        30.288399804429734
+      ],
+      "normal": [
+        0.999646723738928,
+        0.026578707982658004
+      ],
+      "id": "17S South wing entry 1",
+      "edge": 8
+    },
+    {
+      "building": "Environmental laboratory annex",
+      "side": "N",
+      "fraction": 0.7,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 4.210939498746139,
+      "xy": [
+        -199.49457653657822,
+        20.603482696493746
+      ],
+      "normal": [
+        -0.04802379684707882,
+        0.9988461918315504
+      ],
+      "id": "Environmental laboratory annex entry 1",
+      "edge": 2
+    },
+    {
+      "building": "Environmental Science Center",
+      "side": "N",
+      "fraction": 0.2,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 11.71869949925081,
+      "xy": [
+        -225.35489870115097,
+        19.593363405281803
+      ],
+      "normal": [
+        -0.03315867899129645,
+        0.999450099808666
+      ],
+      "id": "Environmental Science Center entry 1",
+      "edge": 2
+    },
+    {
+      "building": "Martial arts and training hall",
+      "side": "N",
+      "fraction": 0.27,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 23.53575445994964,
+      "xy": [
+        196.78083400910168,
+        23.879369996234143
+      ],
+      "normal": [
+        -0.032110549293201306,
+        0.9994843233508413
+      ],
+      "id": "Martial arts and training hall entry 1",
+      "edge": 2
+    },
+    {
+      "building": "Martial arts and training hall",
+      "side": "S",
+      "fraction": 0.55,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 17.52354424567639,
+      "xy": [
+        206.0956287026547,
+        -2.34276136902923
+      ],
+      "normal": [
+        0.032110549271504994,
+        -0.9994843233515383
+      ],
+      "id": "Martial arts and training hall entry 2",
+      "edge": 0
+    },
+    {
+      "building": "East lecture room",
+      "side": "W",
+      "fraction": 0.51,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 8.829731683585495,
+      "xy": [
+        165.81221484255292,
+        6.259750131304726
+      ],
+      "normal": [
+        -0.9993633085117524,
+        -0.035678811645630075
+      ],
+      "id": "East lecture room entry 1",
+      "edge": 3
+    },
+    {
+      "building": "West lecture rooms",
+      "side": "E",
+      "fraction": 0.55,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 4.735698411497196,
+      "xy": [
+        -250.96652004167387,
+        -1.496387884246679
+      ],
+      "normal": [
+        0.9980365523760969,
+        0.06263417694226059
+      ],
+      "id": "West lecture rooms entry 1",
+      "edge": 1
+    },
+    {
+      "building": "18 Teaching building",
+      "side": "S",
+      "fraction": 0.75,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 17.360337903561515,
+      "xy": [
+        -255.40057607513063,
+        -30.166015524397164
+      ],
+      "normal": [
+        0.05652657691318786,
+        -0.9984010948023232
+      ],
+      "id": "18 Teaching building entry 1",
+      "edge": 4
+    },
+    {
+      "building": "19 Teaching building",
+      "side": "S",
+      "fraction": 0.6,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 12.999925054088942,
+      "xy": [
+        -261.21971559535933,
+        -54.56801330170749
+      ],
+      "normal": [
+        0.06601689583813318,
+        -0.9978185052723251
+      ],
+      "id": "19 Teaching building entry 1",
+      "edge": 2
+    },
+    {
+      "building": "Information Infrastructure Center",
+      "side": "N",
+      "fraction": 0.5,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 20.054735133875408,
+      "xy": [
+        -107.39283094227766,
+        -62.707746811929844
+      ],
+      "normal": [
+        -0.03558455433247741,
+        0.9993666691925236
+      ],
+      "id": "Information Infrastructure Center entry 1",
+      "edge": 2
+    },
+    {
+      "building": "Information Infrastructure Center",
+      "side": "S",
+      "fraction": 0.78,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 31.744097258364587,
+      "xy": [
+        -95.7620010892867,
+        -85.29063659348812
+      ],
+      "normal": [
+        0.03585584422790056,
+        -0.9993569724751534
+      ],
+      "id": "Information Infrastructure Center entry 2",
+      "edge": 0
+    },
+    {
+      "building": "9 Teaching building",
+      "side": "W",
+      "fraction": 0.7,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 5.058604395010596,
+      "xy": [
+        -160.16218651307767,
+        -75.21157894693131
+      ],
+      "normal": [
+        -0.99982417117778,
+        -0.018751712686184974
+      ],
+      "id": "9 Teaching building entry 1",
+      "edge": 3
+    },
+    {
+      "building": "West experimental building",
+      "side": "E",
+      "fraction": 0.86,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 40.592845097785876,
+      "xy": [
+        -248.3241820115183,
+        -76.5595735051989
+      ],
+      "normal": [
+        0.9986472837065645,
+        0.05199618010489276
+      ],
+      "id": "West experimental building entry 1",
+      "edge": 1
+    },
+    {
+      "building": "University Hall",
+      "side": "N",
+      "fraction": 0.72,
+      "approach": "stair",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 3.8200000000000007,
+      "u": 1.45,
+      "xy": [
+        -227.52238548272928,
+        -76.468518191751
+      ],
+      "normal": [
+        -0.032647028757066925,
+        0.9994669436821486
+      ],
+      "id": "University Hall entry 1",
+      "edge": 6
+    },
+    {
+      "building": "University Hall",
+      "side": "S",
+      "fraction": 0.35,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 11.201186926142068,
+      "xy": [
+        -227.78406478769446,
+        -116.29296480419295
+      ],
+      "normal": [
+        0.03704278830089918,
+        -0.9993136804001509
+      ],
+      "id": "University Hall entry 2",
+      "edge": 2
+    },
+    {
+      "building": "15 Teaching building",
+      "side": "W",
+      "fraction": 0.07,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 18.84729091341603,
+      "xy": [
+        -244.09988629911703,
+        88.99099165046538
+      ],
+      "normal": [
+        -0.9992714834231985,
+        -0.03816415094300282
+      ],
+      "id": "15 Teaching building entry 1",
+      "edge": 5
+    },
+    {
+      "building": "14 Teaching building",
+      "side": "E",
+      "fraction": 0.95,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 18.925506867358802,
+      "xy": [
+        -207.17111946042485,
+        81.8740930706542
+      ],
+      "normal": [
+        0.9992599512931459,
+        0.03846491572354764
+      ],
+      "id": "14 Teaching building entry 1",
+      "edge": 2
+    },
+    {
+      "building": "2N Teaching building north",
+      "side": "N",
+      "fraction": 0.55,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 31.902397752415478,
+      "xy": [
+        -68.17190552088621,
+        97.9336324473497
+      ],
+      "normal": [
+        -0.04240043532324489,
+        0.9991006971694091
+      ],
+      "id": "2N Teaching building north entry 1",
+      "edge": 4
+    },
+    {
+      "building": "2N Teaching building north",
+      "side": "W",
+      "fraction": 0.55,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 7.900842508582821,
+      "xy": [
+        -107.6079267963396,
+        88.35765358204581
+      ],
+      "normal": [
+        -0.9999883442162573,
+        -0.004828191341312557
+      ],
+      "id": "2N Teaching building north entry 2",
+      "edge": 5
+    },
+    {
+      "building": "2S Teaching building south",
+      "side": "S",
+      "fraction": 0.53,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 29.455559062557477,
+      "xy": [
+        -88.23298359097654,
+        35.42438810718636
+      ],
+      "normal": [
+        0.04278581522447635,
+        -0.9990842677249887
+      ],
+      "id": "2S Teaching building south entry 1",
+      "edge": 5
+    },
+    {
+      "building": "2S Teaching building south",
+      "side": "W",
+      "fraction": 0.62,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 1.45,
+      "xy": [
+        -117.58640680792956,
+        50.05778021375981
+      ],
+      "normal": [
+        -0.9999888180910832,
+        0.004729026622734807
+      ],
+      "id": "2S Teaching building south entry 2",
+      "edge": 4
+    },
+    {
+      "building": "10 Teaching building",
+      "side": "S",
+      "fraction": 0.55,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 52.37609329712862,
+      "xy": [
+        -180.93634559401056,
+        -22.259654097200357
+      ],
+      "normal": [
+        0.04705425219558203,
+        -0.9988923352145188
+      ],
+      "id": "10 Teaching building entry 1",
+      "edge": 8
+    },
+    {
+      "building": "11 Teaching building",
+      "side": "E",
+      "fraction": 0.53,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 17.211705335300493,
+      "xy": [
+        -177.1636611588431,
+        14.820429567983272
+      ],
+      "normal": [
+        0.9994754867698269,
+        0.03238443061437815
+      ],
+      "id": "11 Teaching building entry 1",
+      "edge": 3
+    },
+    {
+      "building": "11 Teaching building",
+      "side": "W",
+      "fraction": 0.53,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 15.619884821724423,
+      "xy": [
+        -187.38706978639615,
+        14.858302234255731
+      ],
+      "normal": [
+        -0.9993659968701994,
+        -0.035603431009278624
+      ],
+      "id": "11 Teaching building entry 2",
+      "edge": 7
+    },
+    {
+      "building": "13 Research building",
+      "side": "E",
+      "fraction": 0.35,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 20.660473244054735,
+      "xy": [
+        -139.2710696632697,
+        17.63413211470346
+      ],
+      "normal": [
+        0.9987250471448491,
+        0.05048049331691345
+      ],
+      "id": "13 Research building entry 1",
+      "edge": 1
+    },
+    {
+      "building": "13 Research building",
+      "side": "E",
+      "fraction": 0.08,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 4.72239388435537,
+      "xy": [
+        -138.46650755466797,
+        1.716373054789364
+      ],
+      "normal": [
+        0.9987250471448491,
+        0.05048049331691345
+      ],
+      "id": "13 Research building entry 2",
+      "edge": 1
+    },
+    {
+      "building": "13 Research building",
+      "side": "W",
+      "fraction": 0.08,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 27.293137949998986,
+      "xy": [
+        -156.89870675664366,
+        3.1192225879419837
+      ],
+      "normal": [
+        -0.999601784967548,
+        -0.028218282897653643
+      ],
+      "id": "13 Research building entry 3",
+      "edge": 7
+    },
+    {
+      "building": "E1 East Building 1",
+      "side": "N",
+      "fraction": 0.6,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 24.25432779795353,
+      "xy": [
+        97.6983289034816,
+        13.60334140480136
+      ],
+      "normal": [
+        -0.046354391028280165,
+        0.9989250574654723
+      ],
+      "id": "E1 East Building 1 entry 1",
+      "edge": 6
+    },
+    {
+      "building": "E1 East Building 1",
+      "side": "N",
+      "fraction": 0.15,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 53.87053138861409,
+      "xy": [
+        68.11396102977187,
+        12.230500322786725
+      ],
+      "normal": [
+        -0.046354391028280165,
+        0.9989250574654723
+      ],
+      "id": "E1 East Building 1 entry 2",
+      "edge": 6
+    },
+    {
+      "building": "E2 East Building 2",
+      "side": "N",
+      "fraction": 0.5,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.842914653689583,
+      "xy": [
+        141.72423836474232,
+        13.855801091234675
+      ],
+      "normal": [
+        -0.041187818319832044,
+        0.9991514217685187
+      ],
+      "id": "E2 East Building 2 entry 1",
+      "edge": 5
+    },
+    {
+      "building": "E2 East Building 2",
+      "side": "E",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 9.543273168396139,
+      "xy": [
+        159.0011878334761,
+        3.5908090091962777
+      ],
+      "normal": [
+        0.9991642113562973,
+        0.040876383704387724
+      ],
+      "id": "E2 East Building 2 entry 2",
+      "edge": 4
+    },
+    {
+      "building": "6 Teaching building",
+      "side": "E",
+      "fraction": 0.65,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 1.45,
+      "xy": [
+        -137.5029961787783,
+        -100.84272232738324
+      ],
+      "normal": [
+        0.9994659812727122,
+        0.0326764789806744
+      ],
+      "id": "6 Teaching building entry 1",
+      "edge": 7
+    },
+    {
+      "building": "6 Teaching building",
+      "side": "S",
+      "fraction": 0.15,
+      "approach": "loading",
+      "width": 3.2,
+      "source": "KIT EMC access map 2023 p2: shared 8-105 loading access at southern 6/8 junction",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 7.153573364375006,
+      "xy": [
+        -182.60719834859273,
+        -114.56400487485818
+      ],
+      "normal": [
+        0.0335931586942834,
+        -0.9994355905654654
+      ],
+      "id": "6 Teaching building entry 2",
+      "edge": 2
+    },
+    {
+      "building": "7 Teaching building",
+      "side": "N",
+      "fraction": 0.7,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.111290711832133,
+      "xy": [
+        -151.99114545757843,
+        -43.08511379951464
+      ],
+      "normal": [
+        -0.032048692361852656,
+        0.9994863087195819
+      ],
+      "id": "7 Teaching building entry 1",
+      "edge": 3
+    },
+    {
+      "building": "8 Teaching building",
+      "side": "W",
+      "fraction": 0.56,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 14.031393578760126,
+      "xy": [
+        -189.51706420488338,
+        -76.0169284469249
+      ],
+      "normal": [
+        -0.9989690880129591,
+        -0.04539560765709148
+      ],
+      "id": "8 Teaching building entry 1",
+      "edge": 1
+    },
+    {
+      "building": "8 Teaching building",
+      "side": "E",
+      "fraction": 0.56,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 16.75330444046307,
+      "xy": [
+        -171.95179888126808,
+        -76.09514769612086
+      ],
+      "normal": [
+        0.9995480213416043,
+        0.030062485460850538
+      ],
+      "id": "8 Teaching building entry 2",
+      "edge": 7
+    },
+    {
+      "building": "4 Teaching building west extension",
+      "side": "N",
+      "fraction": 0.57,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 3.489511124590609,
+      "xy": [
+        -104.62862240764689,
+        -97.43972456066555
+      ],
+      "normal": [
+        -0.006760993051318777,
+        0.9999771442252868
+      ],
+      "id": "4 Teaching building west extension entry 1",
+      "edge": 7
+    },
+    {
+      "building": "4 Teaching building west extension",
+      "side": "S",
+      "fraction": 0.73,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 29.217715652117676,
+      "xy": [
+        -98.74493607346491,
+        -108.66248093768462
+      ],
+      "normal": [
+        0.045616538892498865,
+        -0.9989590238740872
+      ],
+      "id": "4 Teaching building west extension entry 2",
+      "edge": 19
+    },
+    {
+      "building": "5 Teaching building west extension",
+      "side": "N",
+      "fraction": 0.62,
+      "approach": "ramp",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 3.211252449716849,
+      "xy": [
+        -103.47277114141436,
+        -41.12203290581379
+      ],
+      "normal": [
+        -0.041731040291194614,
+        0.9991288807137019
+      ],
+      "id": "5 Teaching building west extension entry 1",
+      "edge": 5
+    },
+    {
+      "building": "KYOTO Design Lab",
+      "side": "W",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 3.0,
+      "xy": [
+        54.0,
+        -22.0
+      ],
+      "normal": [
+        -1.0,
+        -0.0
+      ],
+      "id": "KYOTO Design Lab entry 1",
+      "edge": 5
+    },
+    {
+      "building": "KYOTO Design Lab",
+      "side": "S",
+      "fraction": 0.84,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 40.146539092491814,
+      "xy": [
+        141.09104972375692,
+        -23.889944751381215
+      ],
+      "normal": [
+        0.052558833122763673,
+        -0.9986178293325098
+      ],
+      "id": "KYOTO Design Lab entry 2",
+      "edge": 2
+    },
+    {
+      "building": "Kosen Kaikan",
+      "side": "W",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 6.64159524235022,
+      "xy": [
+        -53.57478929064107,
+        156.47619635028246
+      ],
+      "normal": [
+        -0.9999103238514125,
+        0.0133919474074231
+      ],
+      "id": "Kosen Kaikan entry 1",
+      "edge": 7
+    },
+    {
+      "building": "KIT Club",
+      "side": "N",
+      "fraction": 0.5,
+      "approach": "flat",
+      "width": 2.6,
+      "source": "KIT masterplan 2025 p31 accessibility map; 2019 large-scale accessibility map printed p72",
+      "position_accuracy": "facade and relative position traced; exact offset and dimensions estimated",
+      "threshold_z": 0.12,
+      "u": 6.370747766487929,
+      "xy": [
+        -35.42318849750721,
+        146.51660391804108
+      ],
+      "normal": [
+        0.055479188853140106,
+        0.9984598437614793
+      ],
+      "id": "KIT Club entry 1",
+      "edge": 1
+    }
+  ],
+  "custom_orientation_corrections": {
+    "museum": "east",
+    "center_hall": "north",
+    "plaza_KIT": "north"
+  },
+  "limitations": "Entrance side and relative offset observed in maps; metre coordinates projected onto OSM footprints. Ramp dimensions and all gate dimensions except historic gate clear span are estimates. Unlisted building entries remain inherited estimates. No claim of exhaustive field survey."
+}
